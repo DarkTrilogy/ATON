@@ -1,3 +1,3 @@
-# The Wild Oasis
+# ATON Frontend
 
-React project during the course with ReactQuery and Supabase.
+React project with React Query
